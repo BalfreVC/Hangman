@@ -87,7 +87,6 @@ This is my first project using Python to create the common game Hangman.
 
 [![Product Name Screen Shot][product-screenshot]](https://www.istockphoto.com/vector/hangman-chalk-board-gm165812595-19652106)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `BalfreVC`, `Hangman`, `twitter_handle`, `balfre-vazquez-4a26549`, `email`, `email_client`, `Hangman Game on Python`, `This is my first project using Python to create the common game Hangman`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
